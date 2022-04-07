@@ -1,0 +1,24 @@
+{
+  "name": "curso-platzi-asincronismojs",
+  "version": "1.0.0",
+  "description": "aprender asincronismo en JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdchavarro/curso-platzi-asincronismoJS.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promesas",
+    "async"
+  ],
+  "author": "jdchavarro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdchavarro/curso-platzi-asincronismoJS/issues"
+  },
+  "homepage": "https://github.com/jdchavarro/curso-platzi-asincronismoJS#readme"
+}
