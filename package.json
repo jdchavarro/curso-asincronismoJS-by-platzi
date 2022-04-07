@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jdchavarro/curso-platzi-asincronismoJS/issues"
   },
-  "homepage": "https://github.com/jdchavarro/curso-platzi-asincronismoJS#readme"
+  "homepage": "https://github.com/jdchavarro/curso-platzi-asincronismoJS#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
